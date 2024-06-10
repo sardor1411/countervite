@@ -1,6 +1,6 @@
 # React + Vite
 
-Counet React + Vite + Tailwind App
+Counter React + Vite + Tailwind App
 
 Enter my portfolio website : (https://www.sardordev.uz/)
 
